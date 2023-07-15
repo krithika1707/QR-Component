@@ -17,3 +17,6 @@ After grasping the basic concepts, i started coding in VSCode and created an HTM
 ### Author
 - Github - [Krithika Iyer](https://github.com/krithika1707)
 - Frontend Mentor - [@krithika_iyer](https://www.frontendmentor.io/profile/krithika1707)
+
+### Screenshot
+![image](https://github.com/krithika1707/QR-Component/assets/101324307/89b9fa1b-e92e-4cf2-b591-f75a3866175e)
